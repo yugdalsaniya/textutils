@@ -34,8 +34,22 @@
 | Text Analysis | Provides readability metrics |
 | Copy Feature | One-click copy formatted text |
 
-## 🎥 Demo
-[Live Demo](https://yugdalsaniya.github.io/textutils/) (Replace with your actual demo link)
+## 🤝 Contribution
+We welcome contributions! Please follow these steps:
+- **Create your feature branch (git checkout -b feature/AmazingFeature)**
+- **Commit your changes (git commit -m 'Add some AmazingFeature')**
+- **Push to the branch (git push origin feature/AmazingFeature)**
+- **Open a Pull Request**
 
-![TextUtil Interface](https://raw.githubusercontent.com/yugdalsaniya/textutils/main/screenshots/main-interface.png)
+## ✨ Additional Features
+- **Local storage** - Remembers your preferences
+- **Keyboard shortcuts** - Quick actions
+- **Export options** - Save as TXT/PDF
+- **Word density analyzer** - Visualize most used words
 
+## 📬 Contact
+Yug Patel
+
+- **Email**: yugpatel231078@gmail.com
+- **GitHub**: [@yugdalsaniya](https://github.com/yugdalsaniya)
+- **Linkedin**: [@yourhandle](https://www.linkedin.com/in/yug-dalsaniya/)
