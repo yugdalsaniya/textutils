@@ -57,6 +57,6 @@ We welcome contributions! Please follow these steps:
 
 ## Enjoy the text transformation! ✨📝
 
-## With TextUtil, you can easily manage and transform your text for any need. Whether it's counting words, changing cases, or cleaning up unnecessary spaces, this tool has got you covered. Perfect for content creators, students, or anyone who works with text! 🎉📚
+- With TextUtil, you can easily manage and transform your text for any need. Whether it's counting words, changing cases, or cleaning up unnecessary spaces, this tool has got you covered. Perfect for content creators, students, or anyone who works with text! 🎉📚
 
-## Let your creativity flow and make your text work for you! 💡
+- Let your creativity flow and make your text work for you! 💡
