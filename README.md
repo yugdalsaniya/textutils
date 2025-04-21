@@ -54,6 +54,13 @@ We welcome contributions! Please follow these steps:
 - **GitHub**: [@yugdalsaniya](https://github.com/yugdalsaniya)
 - **Linkedin**: [@yourhandle](https://www.linkedin.com/in/yug-dalsaniya/)
 
+## 💾 Installation & Setup
+To set up the Gym Management System on your local machine, follow these steps:
+
+### Clone the repository
+```bash
+git clone https://github.com/yugdalsaniya/textutils.git
+
 
 ## Enjoy the text transformation! ✨📝
 
